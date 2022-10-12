@@ -22,5 +22,16 @@
 }
 
 body {
-  background-color: honeydew;
+  background-color: #f7e5ff;
+}
+h1{
+  color:#5f214b
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  outline-style: solid;
+  outline-color: #e291f2;
 }
