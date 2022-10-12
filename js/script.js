@@ -7,8 +7,8 @@
  */
 function myButtonClicked() {
   // input
-  const firstName = document.getElementById("street-name").value
-  const userAge = parseInt(document.getElementById("number-entered").value)
+  const streetName = document.getElementById("street-name").value
+  const streetNumber = parseInt(document.getElementById("number-entered").value)
 
   // output
   document.getElementById("address").innerHTML =
