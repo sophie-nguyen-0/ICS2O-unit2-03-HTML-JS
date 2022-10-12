@@ -12,5 +12,5 @@ function myButtonClicked() {
 
   // output
   document.getElementById("address").innerHTML =
-    "Your info is: " + firstName + ", age " + userAge + "."
+    "Your address is: " + streetNumber + streetName + "."
 }
